@@ -1,0 +1,14 @@
+{
+  "name": "tlc1543",
+  "version": "1.0.0",
+  "description": "A helper to read data from a TLC1543 ADC chip via a Raspberry Pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "wiring-pi": "^2.2.1"
+  }
+}
